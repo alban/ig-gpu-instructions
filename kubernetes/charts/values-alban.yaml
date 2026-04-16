@@ -1,0 +1,4 @@
+inspektor-gadget:
+  image:
+    tag: "albantest20260416"
+    repository: "albantest.azurecr.io/inspektor-gadget"
