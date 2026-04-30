@@ -1,4 +1,4 @@
 inspektor-gadget:
   image:
-    tag: "albantest20260429"
+    tag: "albantest20260430"
     repository: "albantest.azurecr.io/inspektor-gadget"
