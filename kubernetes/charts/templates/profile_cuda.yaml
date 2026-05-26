@@ -3,7 +3,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   annotations:
-    gadgetImage: "albantest.azurecr.io/gadget/profile_cuda:albantest20260430v2"
+    gadgetImage: "albantest.azurecr.io/gadget/profile_cuda:albantest20260526"
   labels:
     name: profile-cuda
     type: gadget-instance
